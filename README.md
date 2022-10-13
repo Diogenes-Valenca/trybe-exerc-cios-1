@@ -1,2 +1,2 @@
-# trybe-exerc-cios-1
+# trybe-exercicios-1
 Primeiros exercícios github
